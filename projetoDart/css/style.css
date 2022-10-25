@@ -1,3 +1,23 @@
-body{
-  background-color: beige;
+.container{
+  background-color: black;
+  width: 900px;
+}
+.nav{
+  background-color: #708090;
+  padding: 1rem;
+  text-align: center;
+}
+.nav-link{
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+main{
+  color: #fff;
+  padding: 0.8rem;
+  
+}
+footer{
+  color: #fff;
+  text-align: center;
 }
